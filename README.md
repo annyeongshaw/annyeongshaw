@@ -3,24 +3,23 @@
 - 👨🏻‍💻 Computer engineering **student** at Unijorge
 - 🏋🏻 My therapy is the **gym**
 <div style ="display: inline">
-<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+&nbsp<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp
+&nbsp<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp
+&nbsp<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp
+&nbsp<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />&nbsp
 <div>
 
 ### You can also find me on:
  
 <a href = "https://www.instagram.com/angeloshaw0/" style = "display: inline">
-  	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  	&nbsp<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
 <a>
 <a href = "https://www.linkedin.com/in/angelo-uziel-shaw-3b626b189/" style = "display: inline">
-  	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  	&nbsp<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
 <a>
 <a href = "https://wa.me//5571999770830?text=Hello,%20Vim%20do%20seu%20perfil%20do%20Github" style = "display: inline">
-  	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  	&nbsp<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />&nbsp
 <a>
-  	
- <a href = "https://steamcommunity.com/id/angeloribeira/" style = "display: inline">
-  	<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+<a href = "https://steamcommunity.com/id/angeloribeira/" style = "display: inline">
+  &nbsp<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />&nbsp
 <a>
