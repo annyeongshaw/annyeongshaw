@@ -2,6 +2,7 @@
 
 - 👨🏻‍💻 Computer engineering **student** at Unijorge
 - 🏋🏻 My therapy is the **gym**
+- 💻 I'm currently studying the languages below:
 <div style ="display: inline">
 &nbsp<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp
 &nbsp<img height = '50' width = '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp
