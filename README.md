@@ -15,7 +15,7 @@
  
 #### ***You can also find me on:***
  
-<a href = "https://www.instagram.com/angeloshaw0/" style = "display: inline">
+<a href = "https://www.instagram.com/angeloshaw0/" target = _blank style = "display: inline">
 &nbsp<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
 <a>
 <a href = "https://www.linkedin.com/in/angelo-uziel-shaw-3b626b189/" style = "display: inline">
