@@ -19,9 +19,6 @@
 <a href = "https://www.linkedin.com/in/angelo-uziel-shaw-3b626b189/" style = "display: inline">
 &nbsp<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
 <a>
-<a href = "https://wa.me//5571999770830?text=Hello,%20Vim%20do%20seu%20perfil%20do%20Github" style = "display: inline">
-&nbsp<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />&nbsp
-<a>
 <a href = "https://steamcommunity.com/id/angeloribeira/" style = "display: inline">
 &nbsp<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />&nbsp
 <a>
